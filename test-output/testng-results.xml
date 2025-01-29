@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-26T09:50:40 IST" name="Suite" finished-at="2025-01-26T09:52:06 IST" duration-ms="86191">
+    <groups>
+    </groups>
+    <test started-at="2025-01-26T09:50:40 IST" name="Test" finished-at="2025-01-26T09:52:06 IST" duration-ms="86191">
+      <class name="testCases.TC041_LoginDDT">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC041_LoginDDT@67c27493]" started-at="2025-01-26T09:50:40 IST" name="setup" finished-at="2025-01-26T09:50:47 IST" duration-ms="7264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC041_LoginDDT@67c27493]" started-at="2025-01-26T09:50:51 IST" name="Verify_LoginDDT" data-provider="logindata" finished-at="2025-01-26T09:50:55 IST" duration-ms="3737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Python123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Java@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginDDT -->
+        <test-method signature="Verify_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC041_LoginDDT@67c27493]" started-at="2025-01-26T09:50:55 IST" name="Verify_LoginDDT" data-provider="logindata" finished-at="2025-01-26T09:51:17 IST" duration-ms="22547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohit@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laxmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginDDT -->
+        <test-method signature="Verify_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC041_LoginDDT@67c27493]" started-at="2025-01-26T09:51:17 IST" name="Verify_LoginDDT" data-provider="logindata" finished-at="2025-01-26T09:51:40 IST" duration-ms="22360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginDDT -->
+        <test-method signature="Verify_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC041_LoginDDT@67c27493]" started-at="2025-01-26T09:51:40 IST" name="Verify_LoginDDT" data-provider="logindata" finished-at="2025-01-26T09:52:02 IST" duration-ms="22207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laks@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginDDT -->
+        <test-method signature="Verify_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC041_LoginDDT@67c27493]" started-at="2025-01-26T09:52:02 IST" name="Verify_LoginDDT" data-provider="logindata" finished-at="2025-01-26T09:52:05 IST" duration-ms="3612" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginDDT -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC041_LoginDDT@67c27493]" started-at="2025-01-26T09:52:05 IST" name="teardown" finished-at="2025-01-26T09:52:06 IST" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC041_LoginDDT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
