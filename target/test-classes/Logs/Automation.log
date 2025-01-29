@@ -955,3 +955,13 @@
 2025-01-26 09:46:27,303 - 14 Sep Automation_Framework -INFO - Application opened successfully
 2025-01-26 09:46:30,755 - 14 Sep Automation_Framework -INFO - Closing the browser
 2025-01-26 09:46:31,203 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 09:50:40,532 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 09:50:40,541 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 09:50:40,543 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 09:50:44,177 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 09:50:44,179 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 09:50:44,302 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 09:50:44,316 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 09:50:47,503 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 09:52:05,991 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 09:52:06,415 - 14 Sep Automation_Framework -INFO - Browser closed successfully
